@@ -45,7 +45,7 @@ Our mission is to empower individuals with practical insights and actionable ste
 We believe in the power of community and collaboration. Participate in challenges,explore eco-friendly options and help us spread the word. Together, we can make a difference.
 
 # Usage
-
+Our platform is designed to be user-friendly and accessible. Simply sign up, track your emissions, and start making a positive impact.
 
 <img width="1435" alt="Screenshot 2024-08-05 at 09 44 48" src="https://github.com/user-attachments/assets/2706a481-8487-4ecc-8285-6ddba3d5763d">
 
