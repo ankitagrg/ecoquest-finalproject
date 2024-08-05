@@ -3,21 +3,15 @@
 We're dedicated to promoting sustainable living and environmental responsibility. EcoQuest provides you with the tools and resources you need to make eco-friendly choices and track your impact on the environment.
 
 # Features
+Emission Calculator: Assess your carbon footprint and get tailored suggestions for reducing it.
 
-# Emission Calculator: 
-Assess your carbon footprint and get tailored suggestions for reducing it.
+Eco-Friendly Task Suggestions: Discover actionable steps to live greener and earn rewards.
 
-# Eco-Friendly Task Suggestions:
-Discover actionable steps to live greener and earn rewards.
+Progress Tracking with Data Visualization: Monitor your journey with insightful charts and  graphs.
 
-# Progress Tracking with Data Visualization:
-Monitor your journey with insightful charts and  graphs.
+Marketplace: Explore eco-friendly products and services.
 
-# Marketplace:
-Explore eco-friendly products and services.
-
-# Community Support:
-Connect with like-minded individuals and share your sustainability journey.
+Community Support: Connect with like-minded individuals and share your sustainability journey.
 
 
 # Technologies Used
@@ -33,20 +27,15 @@ Connect with like-minded individuals and share your sustainability journey.
 
 # Future Plans
 
-# Collaboration:
-Partnering with organizations and experts in sustainability.
+Collaboration: Partnering with organizations and experts in sustainability.
 
-# Expanding to Mobile App:
-Bringing our features to your fingertips on mobile devices.
+Expanding to Mobile App: Bringing our features to your fingertips on mobile devices.
 
-# Enhance Accuracy:
-Improving the precision of our emission calculations.
+Enhance Accuracy: Improving the precision of our emission calculations.
 
-# Affiliate Marketing:
-Promoting eco-friendly products through partnerships.
+Affiliate Marketing: Promoting eco-friendly products through partnerships.
 
-# Global Outreach:
-Extending our impact to a global audience.
+Global Outreach: Extending our impact to a global audience.
 
 # Our Mission
 
@@ -57,7 +46,7 @@ We believe in the power of community and collaboration. Participate in challenge
 
 # Usage
 
-!
+
 
 
 
