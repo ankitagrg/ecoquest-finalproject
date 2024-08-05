@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "30 Days No Plastic Challenge",
+      "subtitle": "Join us to reduce plastic usage for a cleaner environment.",
+      "image": "../assets/noplastic.jpeg",
+      "description": "A 30-day challenge to cut down on plastic usage. Share your progress and encourage others to participate.",
+      "participants": 120
+    },
+    {
+      "id": 2,
+      "title": "Plant a Tree Challenge",
+      "subtitle": "Help us plant trees to fight deforestation.",
+      "image": "../assets/treeplant.jpeg",
+      "description": "Join this challenge to plant trees and contribute to a greener planet. Document your planting efforts and share with the community.",
+      "participants": 85
+    },
+    {
+      "id": 3,
+      "title": "Zero Waste Challenge",
+      "subtitle": "Commit to a zero waste lifestyle for 30 days.",
+      "image": "../assets/zerowaste.jpeg",
+      "description": "A challenge to minimize waste by reducing, reusing, and recycling. Share your zero waste tips and tricks with others.",
+      "participants": 98
+    }
+  ]
+  

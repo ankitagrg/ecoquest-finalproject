@@ -1,0 +1,15 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+/* Tailwind directives should come next */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles within @layer */
+@layer utilities {
+    /* Hide scrollbar for Chrome, Safari, and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+}

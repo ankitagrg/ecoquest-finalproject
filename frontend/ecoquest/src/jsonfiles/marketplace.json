@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Brush",
+    "description": "Eco friendly brush set.",
+    "image": "src/assets/products/Brush.jpg",
+    "link": "https://thebamboobazar.com/"
+  },
+  {
+    "id": "2",
+    "name": "Comb",
+    "description": "Eco friendly comb.",
+    "image": "src/assets/products/Comb.jpeg",
+    "link": "https://thebamboobazar.com/"
+  },
+  {
+    "id": "3",
+    "name": "Diary",
+    "description": "Eco friendly diary.",
+    "image": "src/assets/products/Diary.jpeg",
+    "link": "https://thebamboobazar.com/"
+  },
+  {
+    "id": "4",
+    "name": "Mug",
+    "description": "Eco friendly mug.",
+    "image": "src/assets/products/Mug.jpeg",
+    "link": "https://thebamboobazar.com/"
+  },
+  {
+    "id": "5",
+    "name": "QR-scan",
+    "description": "Eco friendly QR-scan.",
+    "image": "src/assets/products/qrscan.jpeg",
+    "link": "https://yellowhatti.com.np/"
+  },
+  {
+    "id": "6",
+    "name": "Tray",
+    "description": "Eco friendly tray.",
+    "image": "src/assets/products/tray.png",
+    "link": "https://yellowhatti.com.np/"
+  },
+  {
+    "id": "7",
+    "name": "Menstrual cup",
+    "description": "Eco friendly menstrual cup.",
+    "image": "src/assets/products/menstrual.jpg",
+    "link": "https://www.hamroshringar.com/product/peesafe-reusable-menstrual-cup-with-medical-small/"
+  },
+  {
+    "id": "8",
+    "name": "Clock",
+    "description": "Eco friendly clock.",
+    "image": "src/assets/products/clock.png",
+    "link": "https://yellowhatti.com.np/"
+  }
+]
